@@ -5,8 +5,6 @@ This handout is also available online at <https://github.com/5uperdan/maze-estee
 
 In this workshop we will introduce you to the python programming language and use it to develop maze solving algorithms.
 
-## How the activity works
-
 - A maze is represented on the 32x32 LED grid.
 - Walls are shown in red.
 - Your player is shown in green, but you can change the colour if you choose.
