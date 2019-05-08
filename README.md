@@ -9,7 +9,6 @@ In this workshop we will introduce you to the python programming language and us
 - Walls are shown in red.
 - Your player is shown in green, but you can change the colour if you choose.
 - The direction your player is facing is shown in blue.
-- Your player is green, but you may change the colour of your player.
 - The goal is to escape the maze by moving your player to the exit.
 - You might find it helpful to write code in your favourite code/ text editor and then paste it into the activity's webpage.
 
